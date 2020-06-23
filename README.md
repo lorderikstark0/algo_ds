@@ -1,0 +1,2 @@
+### algo_ds: 
+#### I try to implement all algorithms and data structures on my own in Python and CPP.This will help me in my competitive programming practice and also improve my skills in these languages.
