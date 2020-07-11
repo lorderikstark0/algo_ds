@@ -1,1 +1,1 @@
-## contains algorithms and ds practice in cpp and c 
+## Contains code of algos and ds practice.
